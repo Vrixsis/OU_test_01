@@ -5,5 +5,6 @@ int main() {
     printf("Witam w nowym branchu");
     printf("Kolejne zmiany")
     printf("Kolejne zmiany")
+    printf("dodatkowe zmiany")
     return 0;
 }
